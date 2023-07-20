@@ -1,6 +1,6 @@
 - Hi, I’m Joseph Lyon.
-- I’m interested in Cyber Security.
-- I’m currently learning Networking and Device Management.
+- I’m interested in cyber security.
+- I’m currently learning aws toolsets.
 - I’m looking to collaborate on coding projects, software developement, and building networks.
 - Reach me at jlyon@butler.edu
 
